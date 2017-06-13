@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="MonkeyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WhenRetrievingListOfFlights.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
